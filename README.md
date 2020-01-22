@@ -1,6 +1,6 @@
 # Machine Learning Real Time Projects
 
-## What is Machine Learning?
+### What is Machine Learning?
 
 Machine learning is a data science technique that allows computers to use existing data to forecast future behaviors, outcomes, and trends. By using machine learning, computers learn without being explicitly programmed.
 
